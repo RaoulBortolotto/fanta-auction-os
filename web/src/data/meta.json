@@ -1,0 +1,275 @@
+{
+  "season": "2026/27",
+  "generatedAt": "2026-08-26",
+  "lastUpdate": "2026-08-26",
+  "input": "listone_raw.json",
+  "listoneMeta": {
+    "source": "Fantacalcio.it Classic listone ufficiale",
+    "file": "Quotazioni_Fantacalcio_Stagione_2026_27.xlsx",
+    "season": "2026/27",
+    "importedAt": "2026-08-26",
+    "lastUpdate": "2026-08-26",
+    "counts": {
+      "P": 62,
+      "D": 184,
+      "C": 184,
+      "A": 86
+    },
+    "total": 516,
+    "note": "Ruoli Classic (R) da Fantacalcio.it. Non alterati."
+  },
+  "counts": {
+    "P": 62,
+    "D": 184,
+    "C": 184,
+    "A": 86
+  },
+  "total": 516,
+  "teams": 20,
+  "roleValidation": {
+    "classicFantacalcio": true,
+    "rolesUnchanged": true,
+    "expected": {
+      "P": 62,
+      "D": 184,
+      "C": 184,
+      "A": 86
+    },
+    "actual": {
+      "P": 62,
+      "D": 184,
+      "C": 184,
+      "A": 86
+    },
+    "ok": true,
+    "note": "Ruoli Classic (R) da Fantacalcio.it. Non alterati."
+  },
+  "dataPolicy": {
+    "noInventedStats": true,
+    "unavailable": "null or \"N/D\"",
+    "fairPrice": "computed at runtime from FVM/scores — only baseScore signals stored",
+    "scoreProxy": "baseScore = 100 * fvm / role_max_fvm (fallback qtA); floor/ceil = ±15% model proxy",
+    "attemptsExpected": "null unless seeded — preferred null (no invented PK volume)",
+    "note": "Enrichment marks source+lastUpdate+confidence. Numeric fantasy production stats not present in listone remain N/D."
+  },
+  "sourcesHierarchy": [
+    "1. Fantacalcio.it / Leghe Fantacalcio — listone, ruoli Classic, quotazioni, FVM",
+    "2. User seed 2026-08-26 — coaches, systems, penalties, piazzati, G1 anti-hype",
+    "3. Sky Sport 2026-08-10 — penalty alternatives (save both on divergence)",
+    "4. Lega Serie A / club — transfers/availability (not scraped here)",
+    "5. Stats providers — only when available (here: N/D)"
+  ],
+  "audit": {
+    "penaltyAssigned": 71,
+    "setPiecesAssigned": 60,
+    "g1Assigned": 11,
+    "unmatchedPenaltyUser": [
+      {
+        "team": "Monza",
+        "name": "Petagna",
+        "source": "user"
+      }
+    ],
+    "unmatchedPenaltySky": [
+      {
+        "team": "Milan",
+        "name": "Nkunku",
+        "source": "sky_sport"
+      },
+      {
+        "team": "Parma",
+        "name": "Pellegrino",
+        "source": "sky_sport"
+      }
+    ],
+    "unmatchedSetPieces": [],
+    "unmatchedG1": [],
+    "skyVsUserDivergences": [
+      {
+        "team": "Atalanta",
+        "userOrder": [
+          "Scamacca",
+          "Krstovic",
+          "Samardzic"
+        ],
+        "skyOrder": [
+          "Scamacca",
+          "Krstovic",
+          "Ederson D.S."
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Cagliari",
+        "userOrder": [
+          "Kevin Carlos",
+          "Maldini",
+          "Mina"
+        ],
+        "skyOrder": [
+          "Maldini",
+          "Fazzini",
+          "Mina"
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Frosinone",
+        "userOrder": [
+          "Calò",
+          "Schmid",
+          "Grillitsch"
+        ],
+        "skyOrder": [
+          "Calò",
+          "Ghedjemis",
+          "Raimondo"
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Genoa",
+        "userOrder": [
+          "Colombo",
+          "Ostigard",
+          "Vitinha O."
+        ],
+        "skyOrder": [
+          "Colombo",
+          "Vitinha O.",
+          "Messias"
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Milan",
+        "userOrder": [
+          "Ramos G.",
+          "Pulisic",
+          "Modric"
+        ],
+        "skyOrder": [
+          "UNMATCHED:Nkunku",
+          "Ramos G.",
+          "Pulisic"
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Monza",
+        "userOrder": [
+          "Pessina",
+          "Cutrone",
+          "UNMATCHED:Petagna"
+        ],
+        "skyOrder": [
+          "Pessina",
+          "Colpani",
+          "Cutrone"
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Napoli",
+        "userOrder": [
+          "De Bruyne",
+          "Hojlund",
+          "Politano"
+        ],
+        "skyOrder": [
+          "De Bruyne",
+          "Hojlund",
+          "McTominay"
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Parma",
+        "userOrder": [
+          "Tourè E.",
+          "Romero D.",
+          "Valeri"
+        ],
+        "skyOrder": [
+          "UNMATCHED:Pellegrino",
+          "Valeri",
+          "Bernabè"
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Roma",
+        "userOrder": [
+          "Malen",
+          "Dybala",
+          "Castro S."
+        ],
+        "skyOrder": [
+          "Malen",
+          "Dybala",
+          "Pellegrini Lo."
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Torino",
+        "userOrder": [
+          "Vlasic",
+          "Kulenovic",
+          "Simeone"
+        ],
+        "skyOrder": [
+          "Vlasic",
+          "Simeone",
+          "Adams C."
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Udinese",
+        "userOrder": [
+          "Davis K.",
+          "Solet",
+          "Zaniolo"
+        ],
+        "skyOrder": [
+          "Davis K.",
+          "Zaniolo",
+          "Solet"
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      },
+      {
+        "team": "Venezia",
+        "userOrder": [
+          "Busio",
+          "Adams A.",
+          "Adorante"
+        ],
+        "skyOrder": [
+          "Adams A.",
+          "Yeboah J.",
+          "Rrahmani Al."
+        ],
+        "note": "Sources diverge — keep both, lower confidence."
+      }
+    ],
+    "globalPenaltyNote": "As of 2026-08-26 NO Serie A defender is clear consensus #1 PK with high confidence.",
+    "defenderPenaltyUpside": [
+      "Solet",
+      "Ostigard",
+      "Mina",
+      "Valeri"
+    ]
+  },
+  "tierMethod": "qtA percentiles within Classic role: elite>=p90, high>=p75, mid>=p50, low>=p25, else min",
+  "europeSeed": [
+    "Atalanta",
+    "Bologna",
+    "Inter",
+    "Juventus",
+    "Milan",
+    "Napoli",
+    "Roma"
+  ]
+}

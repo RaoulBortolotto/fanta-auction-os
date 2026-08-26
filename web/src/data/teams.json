@@ -1,0 +1,1612 @@
+[
+  {
+    "team": "Atalanta",
+    "coach": "Sarri",
+    "system": "4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "Scamacca",
+          "Krstovic",
+          "Samardzic"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Scamacca",
+          "Krstovic",
+          "Ederson D.S."
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "De Ketelaere",
+        "Samardzic",
+        "Gaetano"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": true,
+    "europeNote": "CL/EL likely (seed big clubs).",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "Gerarchia rigori stabile su Scamacca; CDK = De Ketelaere sui piazzati."
+    ],
+    "fantasyAssets": [
+      "Scamacca",
+      "Lookman N/D se assente",
+      "De Ketelaere",
+      "Samardzic"
+    ],
+    "traps": [
+      "Raspadori: peso G1 al gol, non al ruolo."
+    ],
+    "playerCount": 25,
+    "roleCounts": {
+      "P": 3,
+      "D": 9,
+      "C": 8,
+      "A": 5
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Bologna",
+    "coach": "Tedesco",
+    "system": "4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "Orsolini",
+          "Bernardeschi",
+          "Dovbyk"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": null,
+      "divergence": false,
+      "divergenceNote": null
+    },
+    "setPieces": {
+      "order": [
+        "Orsolini",
+        "Bernardeschi",
+        "Miranda J."
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": true,
+    "europeNote": "CL/EL likely (seed big clubs).",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "Europa probabile — verificare slot UEFA."
+    ],
+    "fantasyAssets": [
+      "Orsolini",
+      "Dovbyk",
+      "Bernardeschi"
+    ],
+    "traps": [],
+    "playerCount": 24,
+    "roleCounts": {
+      "P": 3,
+      "D": 9,
+      "C": 10,
+      "A": 2
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "medium",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Cagliari",
+    "coach": "Pisacane",
+    "system": "4-3-2-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Kevin Carlos",
+          "Maldini",
+          "Mina"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Maldini",
+          "Fazzini",
+          "Mina"
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Fazzini",
+        "Maldini",
+        "Romano"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [
+      "Romano: PROMOZIONE_REALE (seed G1)."
+    ],
+    "injuries": [],
+    "marketNotes": [
+      "Mina in gerarchia aperta — non specialista."
+    ],
+    "fantasyAssets": [
+      "Romano",
+      "Kevin Carlos",
+      "Maldini"
+    ],
+    "traps": [
+      "Mina RIG? low-medium confidence."
+    ],
+    "playerCount": 26,
+    "roleCounts": {
+      "P": 3,
+      "D": 8,
+      "C": 8,
+      "A": 7
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Como",
+    "coach": "Fabregas",
+    "system": "4-2-3-1 / alternativa 4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "Da Cunha",
+          "Douvikas",
+          "Paz N."
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": null,
+      "divergence": false,
+      "divergenceNote": null
+    },
+    "setPieces": {
+      "order": [
+        "Paz N.",
+        "Baturina",
+        "Milla"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [],
+    "fantasyAssets": [
+      "Paz N.",
+      "Da Cunha",
+      "Douvikas"
+    ],
+    "traps": [],
+    "playerCount": 28,
+    "roleCounts": {
+      "P": 3,
+      "D": 10,
+      "C": 10,
+      "A": 5
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "medium",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Fiorentina",
+    "coach": "Grosso",
+    "system": "4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "Gudmundsson A.",
+          "Kean",
+          "Mandragora"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": null,
+      "divergence": false,
+      "divergenceNote": null
+    },
+    "setPieces": {
+      "order": [
+        "Gudmundsson A.",
+        "Mastantuono",
+        "Atta"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [],
+    "fantasyAssets": [
+      "Kean",
+      "Gudmundsson A.",
+      "Mandragora"
+    ],
+    "traps": [],
+    "playerCount": 23,
+    "roleCounts": {
+      "P": 3,
+      "D": 9,
+      "C": 9,
+      "A": 2
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "medium",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Frosinone",
+    "coach": "Alvini",
+    "system": "4-2-3-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Calò",
+          "Schmid",
+          "Grillitsch"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Calò",
+          "Ghedjemis",
+          "Raimondo"
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Calò",
+        "Schmid",
+        "Ghedjemis"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "Sky diverge su #2/#3 (Ghedjemis/Raimondo)."
+    ],
+    "fantasyAssets": [
+      "Calò",
+      "Schmid"
+    ],
+    "traps": [],
+    "playerCount": 29,
+    "roleCounts": {
+      "P": 4,
+      "D": 10,
+      "C": 12,
+      "A": 3
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Genoa",
+    "coach": "De Rossi",
+    "system": "3-4-2-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Colombo",
+          "Ostigard",
+          "Vitinha O."
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Colombo",
+          "Vitinha O.",
+          "Messias"
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Baldanzi",
+        "Martin",
+        "Vitinha O."
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "Sky non ha Ostigard top3 (Colombo/Vitinha/Messias)."
+    ],
+    "fantasyAssets": [
+      "Colombo",
+      "Vitinha O.",
+      "Baldanzi"
+    ],
+    "traps": [
+      "Ostigard RIG? medium-low — divergenza Sky."
+    ],
+    "playerCount": 25,
+    "roleCounts": {
+      "P": 3,
+      "D": 9,
+      "C": 9,
+      "A": 4
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Inter",
+    "coach": "Chivu",
+    "system": "3-5-2",
+    "penalties": {
+      "user": {
+        "order": [
+          "Calhanoglu",
+          "Zielinski",
+          "Martinez L."
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": null,
+      "divergence": false,
+      "divergenceNote": null
+    },
+    "setPieces": {
+      "order": [
+        "Calhanoglu",
+        "Dimarco",
+        "Zielinski"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": true,
+    "europeNote": "CL/EL likely (seed big clubs).",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "CL likely."
+    ],
+    "fantasyAssets": [
+      "Martinez L.",
+      "Calhanoglu",
+      "Dimarco"
+    ],
+    "traps": [],
+    "playerCount": 24,
+    "roleCounts": {
+      "P": 3,
+      "D": 8,
+      "C": 9,
+      "A": 4
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "medium",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Juventus",
+    "coach": "Spalletti",
+    "system": "4-2-3-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Kolo Muani",
+          "Yildiz",
+          "Locatelli"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": null,
+      "divergence": false,
+      "divergenceNote": null
+    },
+    "setPieces": {
+      "order": [
+        "Yildiz",
+        "Locatelli",
+        "Cambiaso"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": true,
+    "europeNote": "CL/EL likely (seed big clubs).",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "CL/EL likely."
+    ],
+    "fantasyAssets": [
+      "Yildiz",
+      "Kolo Muani",
+      "Locatelli"
+    ],
+    "traps": [],
+    "playerCount": 27,
+    "roleCounts": {
+      "P": 3,
+      "D": 9,
+      "C": 9,
+      "A": 6
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "medium",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Lazio",
+    "coach": "Gattuso",
+    "system": "4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "Zaccagni",
+          "Taylor K.",
+          "Cataldi"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": null,
+      "divergence": false,
+      "divergenceNote": null
+    },
+    "setPieces": {
+      "order": [
+        "Rovella",
+        "Zaccagni",
+        "Cataldi"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [
+      "Frattesi: WATCH inserimenti/nuovo contesto."
+    ],
+    "injuries": [],
+    "marketNotes": [],
+    "fantasyAssets": [
+      "Zaccagni",
+      "Rovella",
+      "Frattesi"
+    ],
+    "traps": [],
+    "playerCount": 27,
+    "roleCounts": {
+      "P": 3,
+      "D": 11,
+      "C": 10,
+      "A": 3
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "medium",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Lecce",
+    "coach": "Di Francesco",
+    "system": "4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "Geubbels",
+          "Stulic",
+          "Berisha M."
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": null,
+      "divergence": false,
+      "divergenceNote": null
+    },
+    "setPieces": {
+      "order": [
+        "Pierotti",
+        "Berisha M.",
+        "Gallo"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [
+      "Gorter: HYPE_GUARD se presente."
+    ],
+    "injuries": [],
+    "marketNotes": [],
+    "fantasyAssets": [
+      "Geubbels",
+      "Stulic"
+    ],
+    "traps": [
+      "Gorter: non trasformare G1 in prezzo eccessivo."
+    ],
+    "playerCount": 23,
+    "roleCounts": {
+      "P": 3,
+      "D": 7,
+      "C": 10,
+      "A": 3
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "medium",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Milan",
+    "coach": "Amorim",
+    "system": "3-4-2-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Ramos G.",
+          "Pulisic",
+          "Modric"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "UNMATCHED:Nkunku",
+          "Ramos G.",
+          "Pulisic"
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Modric",
+        "Pulisic",
+        "Saelemaekers"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": true,
+    "europeNote": "CL/EL likely (seed big clubs).",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [
+      "Cissè A.: WATCH/HYPE_GUARD — dietro Ramos G. in attacco."
+    ],
+    "injuries": [],
+    "marketNotes": [
+      "Sky 10/08: Nkunku / G.Ramos / Pulisic — Nkunku non in listone.",
+      "CL likely."
+    ],
+    "fantasyAssets": [
+      "Ramos G.",
+      "Pulisic",
+      "Leao",
+      "Modric"
+    ],
+    "traps": [
+      "Cissè A. hype G1; Nkunku assente dal listone."
+    ],
+    "playerCount": 29,
+    "roleCounts": {
+      "P": 3,
+      "D": 9,
+      "C": 13,
+      "A": 4
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Monza",
+    "coach": "Juric",
+    "system": "3-4-2-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Pessina",
+          "Cutrone",
+          "UNMATCHED:Petagna"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Pessina",
+          "Colpani",
+          "Cutrone"
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Pessina",
+        "Colpani",
+        "Mota"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [
+      "Varela G.: WATCH sleeper CF minutes.",
+      "Mout: HYPE_GUARD se presente."
+    ],
+    "injuries": [],
+    "marketNotes": [
+      "Petagna non in listone; Sky: Pessina/Colpani/Cutrone."
+    ],
+    "fantasyAssets": [
+      "Pessina",
+      "Cutrone",
+      "Colpani",
+      "Varela G."
+    ],
+    "traps": [
+      "Petagna unmatched; Mout low qtA."
+    ],
+    "playerCount": 25,
+    "roleCounts": {
+      "P": 3,
+      "D": 9,
+      "C": 9,
+      "A": 4
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Napoli",
+    "coach": "Allegri",
+    "system": "4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "De Bruyne",
+          "Hojlund",
+          "Politano"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "De Bruyne",
+          "Hojlund",
+          "McTominay"
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "De Bruyne",
+        "Politano",
+        "Neres"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": true,
+    "europeNote": "CL/EL likely (seed big clubs).",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [
+      "Vergara: WATCH upside, rosa profonda."
+    ],
+    "injuries": [],
+    "marketNotes": [
+      "Sky: De Bruyne/Hojlund/McTominay vs Politano #3 user."
+    ],
+    "fantasyAssets": [
+      "De Bruyne",
+      "Hojlund",
+      "Politano",
+      "Neres"
+    ],
+    "traps": [
+      "Vergara profondità rosa."
+    ],
+    "playerCount": 28,
+    "roleCounts": {
+      "P": 3,
+      "D": 11,
+      "C": 8,
+      "A": 6
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Parma",
+    "coach": "Cuesta",
+    "system": "4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "Tourè E.",
+          "Romero D.",
+          "Valeri"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "UNMATCHED:Pellegrino",
+          "Valeri",
+          "Bernabè"
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Bernabè",
+        "Nicolussi Caviglia",
+        "Valeri"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "Sky: Pellegrino/Valeri/Bernabè — Pellegrino Parma non in listone.",
+      "Valeri RIG? low confidence, divergenza fonti."
+    ],
+    "fantasyAssets": [
+      "Tourè E.",
+      "Romero D.",
+      "Bernabè",
+      "Valeri"
+    ],
+    "traps": [
+      "Valeri RIG? — nessuna gerarchia chiara."
+    ],
+    "playerCount": 23,
+    "roleCounts": {
+      "P": 2,
+      "D": 7,
+      "C": 8,
+      "A": 6
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Roma",
+    "coach": "Gasperini",
+    "system": "3-4-2-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Malen",
+          "Dybala",
+          "Castro S."
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Malen",
+          "Dybala",
+          "Pellegrini Lo."
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Dybala",
+        "Malen",
+        "Pellegrini Lo."
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": true,
+    "europeNote": "CL/EL likely (seed big clubs).",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "Sky #3 Pellegrini vs Castro user; Europa likely."
+    ],
+    "fantasyAssets": [
+      "Dybala",
+      "Malen",
+      "Castro S.",
+      "Pellegrini Lo."
+    ],
+    "traps": [],
+    "playerCount": 24,
+    "roleCounts": {
+      "P": 3,
+      "D": 10,
+      "C": 6,
+      "A": 5
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Sassuolo",
+    "coach": "Aquilani",
+    "system": "4-3-3",
+    "penalties": {
+      "user": {
+        "order": [
+          "Berardi",
+          "Pinamonti",
+          "Laurientè"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": null,
+      "divergence": false,
+      "divergenceNote": null
+    },
+    "setPieces": {
+      "order": [
+        "Berardi",
+        "Laurientè",
+        "Adzic"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [],
+    "fantasyAssets": [
+      "Berardi",
+      "Pinamonti",
+      "Laurientè"
+    ],
+    "traps": [],
+    "playerCount": 28,
+    "roleCounts": {
+      "P": 4,
+      "D": 10,
+      "C": 10,
+      "A": 4
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "medium",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Torino",
+    "coach": "Abate",
+    "system": "3-4-2-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Vlasic",
+          "Kulenovic",
+          "Simeone"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Vlasic",
+          "Simeone",
+          "Adams C."
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Vlasic",
+        "Oristanio",
+        "Gineitis"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [
+      "Cacciamani: WATCH esterno offensivo G1.",
+      "Mascardi: GERARCHIA_APERTA — non auto P1 se mercato interviene."
+    ],
+    "injuries": [],
+    "marketNotes": [
+      "Sky: Vlasic/Simeone/Adams C. vs Kulenovic #2 user."
+    ],
+    "fantasyAssets": [
+      "Vlasic",
+      "Kulenovic",
+      "Simeone",
+      "Cacciamani"
+    ],
+    "traps": [
+      "Mascardi non P1 definitivo."
+    ],
+    "playerCount": 25,
+    "roleCounts": {
+      "P": 3,
+      "D": 7,
+      "C": 11,
+      "A": 4
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Udinese",
+    "coach": "Runjaic",
+    "system": "3-4-2-1",
+    "penalties": {
+      "user": {
+        "order": [
+          "Davis K.",
+          "Solet",
+          "Zaniolo"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Davis K.",
+          "Zaniolo",
+          "Solet"
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Zaniolo",
+        "Ekkelenkamp",
+        "Unai Gomez"
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "Davis #1 consensus; Solet alternativa (Sky inverte #2/#3).",
+      "Nessun D Serie A è PK1 chiaro consensus alto al 26/08."
+    ],
+    "fantasyAssets": [
+      "Davis K.",
+      "Zaniolo",
+      "Solet"
+    ],
+    "traps": [
+      "Solet RIG? — NON rigorista titolare."
+    ],
+    "playerCount": 25,
+    "roleCounts": {
+      "P": 3,
+      "D": 11,
+      "C": 8,
+      "A": 3
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  },
+  {
+    "team": "Venezia",
+    "coach": "Stroppa",
+    "system": "3-5-2",
+    "penalties": {
+      "user": {
+        "order": [
+          "Busio",
+          "Adams A.",
+          "Adorante"
+        ],
+        "date": "2026-08-26",
+        "source": "user_seed"
+      },
+      "skySport": {
+        "order": [
+          "Adams A.",
+          "Yeboah J.",
+          "Rrahmani Al."
+        ],
+        "date": "2026-08-10",
+        "source": "sky_sport"
+      },
+      "divergence": true,
+      "divergenceNote": "Sources diverge — keep both, lower confidence."
+    },
+    "setPieces": {
+      "order": [
+        "Busio",
+        "Yeboah J.",
+        "Perez K."
+      ],
+      "date": "2026-08-26",
+      "source": "user_seed_piazzati",
+      "note": "FK/corners same seed order; split N/D."
+    },
+    "europe": false,
+    "europeNote": "N/D pending UEFA places.",
+    "defensiveSolidity": "N/D",
+    "offensiveQuality": "N/D",
+    "g1Notes": [],
+    "injuries": [],
+    "marketNotes": [
+      "Sky: Adams A./Yeboah/Rrahmani Al. vs Busio-first user."
+    ],
+    "fantasyAssets": [
+      "Busio",
+      "Adams A.",
+      "Adorante"
+    ],
+    "traps": [],
+    "playerCount": 28,
+    "roleCounts": {
+      "P": 4,
+      "D": 11,
+      "C": 7,
+      "A": 6
+    },
+    "lastUpdate": "2026-08-26",
+    "sources": [
+      {
+        "name": "user_seed_section17",
+        "date": "2026-08-26"
+      },
+      {
+        "name": "sky_sport_penalties",
+        "date": "2026-08-10"
+      },
+      {
+        "name": "fantacalcio_listone",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": {
+      "coachSystem": "medium",
+      "penalties": "low",
+      "setPieces": "low",
+      "europe": "low",
+      "defensiveSolidity": "n/a",
+      "offensiveQuality": "n/a"
+    }
+  }
+]

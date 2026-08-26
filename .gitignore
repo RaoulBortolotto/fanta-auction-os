@@ -1,0 +1,48 @@
+# Dependencies & build
+node_modules/
+dist/
+build/
+.next/
+.vite/
+.cache/
+coverage/
+.turbo/
+.vercel/
+out/
+
+# OS / editor / logs
+.DS_Store
+Thumbs.db
+*.log
+*.map
+*.local
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+secrets*
+credentials*
+*.pem
+*.key
+
+# Heavy / temp / audit packaging copies (source of truth remains in-repo paths)
+*.mp4
+*.mov
+*.webm
+*.woff
+*.woff2
+*.ttf
+*.otf
+AUDIT_FOR_CHATGPT/
+AUDIT_FOR_CHATGPT.zip
+
+# Vite / tooling caches
+web/node_modules/
+web/dist/
+web/.vercel/
+web/.vite/
